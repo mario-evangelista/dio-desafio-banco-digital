@@ -61,8 +61,8 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## Contato
 
-Mário Evangelista - [mariojbe@gmail.com](mailto:mario@gmail.com)
+**Mário Evangelista** - [mariojbe@gmail.com](mailto:mario@gmail.com)
 
-Link do Projeto: [https://github.com/mario-evangelista/dio-desafio-banco-digital](https://github.com/mario-evangelista/dio-desafio-banco-digital)
+**Link do Projeto:** [https://github.com/mario-evangelista/dio-desafio-banco-digital](https://github.com/mario-evangelista/dio-desafio-banco-digital)
 
 **Meu Perfil na DIO:** [https://www.dio.me/users/mariojbe](https://www.dio.me/users/mariojbe)
