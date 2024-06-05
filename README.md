@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de um `README.md` para o repositório GitHub:
-
-```markdown
 # Banco Digital com Java e Orientação a Objetos
 
 Este projeto é uma implementação de um banco digital utilizando os conceitos de Programação Orientada a Objetos (POO) em Java. O objetivo é reforçar o conhecimento em POO através da criação de uma aplicação prática que simula um banco com contas correntes, contas poupança, cartões de crédito e investimentos.
