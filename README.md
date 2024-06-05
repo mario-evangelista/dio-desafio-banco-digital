@@ -20,7 +20,7 @@ Este projeto é uma implementação de um banco digital utilizando os conceitos 
 
 - [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - [Lombok](https://projectlombok.org/) (Certifique-se de que seu IDE está configurado para suportar Lombok)
-- IDE de sua preferência (IntelliJ, Eclipse, etc.)
+- IDE de sua preferência (IntelliJ, Eclipse, NetBeans, etc.)
 
 ## Como Executar o Projeto
 
