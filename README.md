@@ -26,7 +26,7 @@ Este projeto é uma implementação de um banco digital utilizando os conceitos 
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/lab-banco-digital-oo.git
+   git clone https://github.com/mario-evangelista/dio-desafio-banco-digital.git
    ```
 
 2. Importe o projeto em sua IDE.
@@ -61,21 +61,6 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 
 ## Contato
 
-Seu Nome - [seu-email@example.com](mailto:seu-email@example.com)
+Mário Evangelista - [Mário Evangelista](mailto:mario@gmail.com)
 
-Link do Projeto: [https://github.com/seu-usuario/lab-banco-digital-oo](https://github.com/seu-usuario/lab-banco-digital-oo)
-```
-
-### Explicação do `README.md`:
-
-- **Título e Descrição**: Apresenta o nome do projeto e uma breve descrição.
-- **Funcionalidades**: Lista as principais funcionalidades implementadas.
-- **Tecnologias Utilizadas**: Informa as tecnologias e bibliotecas utilizadas no projeto.
-- **Pré-requisitos**: Detalha os requisitos necessários para rodar o projeto.
-- **Como Executar o Projeto**: Passo a passo para baixar e executar o projeto.
-- **Estrutura do Projeto**: Descrição das principais classes e interfaces do projeto.
-- **Contribuição**: Instruções de como contribuir com o projeto.
-- **Licença**: Informação sobre a licença do projeto.
-- **Contato**: Informação de contato do autor do projeto.
-
-Este `README.md` fornece uma visão geral completa do projeto, facilitando para outros desenvolvedores entenderem, utilizarem e contribuírem com o projeto.
+Link do Projeto: [https://github.com/mario-evangelista/dio-desafio-banco-digital](https://github.com/mario-evangelista/dio-desafio-banco-digital)
