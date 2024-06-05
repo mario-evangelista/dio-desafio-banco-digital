@@ -13,12 +13,12 @@ Este projeto é uma implementação de um banco digital utilizando os conceitos 
 
 ## Tecnologias Utilizadas
 
-- Java 8+
+- Java 17+
 - Lombok
 
 ## Pré-requisitos
 
-- [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- [Java JDK 17+](https://www.oracle.com/java/technologies/downloads/#java17)
 - [Lombok](https://projectlombok.org/) (Certifique-se de que seu IDE está configurado para suportar Lombok)
 - IDE de sua preferência (IntelliJ, Eclipse, NetBeans, etc.)
 
